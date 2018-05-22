@@ -1,0 +1,8 @@
+﻿{
+  "javascript": [
+    "/app_plugins/Demo28CustomDashboard/dashboard.controller.js"
+  ],
+  "css": [
+    "/app_plugins/Demo28CustomDashboard/dashboard.css"
+  ]
+}

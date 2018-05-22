@@ -1,0 +1,44 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = null;
+}
+
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div class="menu">
+           @Umbraco.GetDictionaryValue("Menu.Header")
+            @if (CurrentPage.AncestorOrSelf(1).Id != CurrentPage.Id)
+            {
+               <p>
+                    <a href="/">Back to homepage</a> &nbsp; |
+                </p>
+            }
+            @{
+                var root = CurrentPage.AncestorOrSelf(1);
+                foreach (var page in root.Children)
+                {
+                
+                    <p class="@(page.IsAncestorOrSelf(CurrentPage) ? "current" : null)">
+                        <a href="@page.Url">@page.Name</a> &nbsp; |
+                    </p>
+                }
+            }
+
+            &nbsp; &nbsp; &nbsp; &nbsp; 
+
+            @foreach (var lang in Umbraco.ContentAtRoot())
+            {
+                <p class="@((lang.Id == CurrentPage.Id) ? "current" : null)">
+                        <a href="@lang.Url">@lang.Name</a> &nbsp; |
+                    </p>
+            }
+        </div>
+        <div class="content">
+            @RenderBody()
+        </div>
+    </body>
+</html>
+

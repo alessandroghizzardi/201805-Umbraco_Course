@@ -1,0 +1,228 @@
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\EmptyMvc.dll.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\EmptyMvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\EmptyMvc.pdb
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\csc.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\csc.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\csc.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\csi.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\csi.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\System.AppContext.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\System.Collections.Immutable.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\System.IO.FileSystem.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\System.Reflection.Metadata.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\vbc.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\vbc.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\vbc.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\VBCSCompiler.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\roslyn\VBCSCompiler.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\Microsoft.Web.Infrastructure.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\Newtonsoft.Json.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Net.Http.Formatting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Helpers.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Http.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Http.WebHost.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Mvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Razor.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Webpages.Deployment.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Webpages.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Webpages.Razor.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Razor.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Webpages.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Webpages.Deployment.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Webpages.Razor.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Helpers.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Mvc.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\Newtonsoft.Json.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Net.Http.Formatting.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Http.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\bin\System.Web.Http.WebHost.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\obj\Debug\EmptyMvc.csprojResolveAssemblyReference.cache
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\obj\Debug\EmptyMvc.csproj.CoreCompileInputs.cache
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\obj\Debug\EmptyMvc.csproj.CopyComplete
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\obj\Debug\EmptyMvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\_EmptyMvc\EmptyMvc\obj\Debug\EmptyMvc.pdb
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\EmptyMvc.dll.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\EmptyMvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\EmptyMvc.pdb
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\csc.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\csc.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\csc.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\csi.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\csi.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\System.AppContext.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\System.Collections.Immutable.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\System.IO.FileSystem.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\System.Reflection.Metadata.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\vbc.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\vbc.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\vbc.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\VBCSCompiler.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\roslyn\VBCSCompiler.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\Microsoft.Web.Infrastructure.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\Newtonsoft.Json.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Net.Http.Formatting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Helpers.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Http.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Http.WebHost.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Mvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Razor.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Webpages.Deployment.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Webpages.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Webpages.Razor.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Razor.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Webpages.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Webpages.Deployment.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Webpages.Razor.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Helpers.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Mvc.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\Newtonsoft.Json.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Net.Http.Formatting.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Http.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\bin\System.Web.Http.WebHost.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\obj\Debug\EmptyMvc.csprojResolveAssemblyReference.cache
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\obj\Debug\EmptyMvc.csproj.CoreCompileInputs.cache
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\obj\Debug\EmptyMvc.csproj.CopyComplete
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\obj\Debug\EmptyMvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo04\EmptyMvc\obj\Debug\EmptyMvc.pdb
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\EmptyMvc.dll.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\EmptyMvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\EmptyMvc.pdb
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\csc.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\csc.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\csc.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\csi.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\csi.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\System.AppContext.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\System.Collections.Immutable.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\System.IO.FileSystem.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\System.Reflection.Metadata.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\vbc.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\vbc.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\vbc.rsp
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\VBCSCompiler.exe
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\roslyn\VBCSCompiler.exe.config
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\Microsoft.Web.Infrastructure.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\Newtonsoft.Json.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Net.Http.Formatting.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Helpers.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Http.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Http.WebHost.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Mvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Razor.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Webpages.Deployment.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Webpages.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Webpages.Razor.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Razor.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Webpages.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Webpages.Deployment.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Webpages.Razor.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Helpers.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Mvc.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\Newtonsoft.Json.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Net.Http.Formatting.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Http.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\bin\System.Web.Http.WebHost.xml
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\obj\Debug\EmptyMvc.csprojResolveAssemblyReference.cache
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\obj\Debug\EmptyMvc.csproj.CoreCompileInputs.cache
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\obj\Debug\EmptyMvc.csproj.CopyComplete
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\obj\Debug\EmptyMvc.dll
+Z:\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo05\EmptyMvc\obj\Debug\EmptyMvc.pdb
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\EmptyMvc.dll.config
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\EmptyMvc.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\EmptyMvc.pdb
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\csc.exe.config
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\csc.rsp
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\csi.exe
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\csi.rsp
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\System.AppContext.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\System.IO.FileSystem.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\vbc.exe.config
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\vbc.rsp
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Webpages.Deployment.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Webpages.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Webpages.Razor.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Webpages.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Webpages.Deployment.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Webpages.Razor.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\obj\Debug\EmptyMvc.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\obj\Debug\EmptyMvc.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\obj\Debug\EmptyMvc.csproj.CopyComplete
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\obj\Debug\EmptyMvc.dll
+\\vmware-host\Shared Folders\_project_share\Personal\20180519-Umbraco_Course\Samples\Demo06\EmptyMvc\obj\Debug\EmptyMvc.pdb

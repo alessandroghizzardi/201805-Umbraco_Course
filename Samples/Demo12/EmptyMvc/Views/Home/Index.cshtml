@@ -1,0 +1,16 @@
+﻿@model EmptyMvc.Models.MyTestModel
+
+
+<div>
+    <h1>Homepage</h1>
+</div>
+<div>
+    @Html.ActionLink("Test Web Api void", "TestVoid", "api/ExternalCheck")<br />
+    @Html.ActionLink("Test Web Api response message", "TestHttpResponseMessage", "api/ExternalCheck")<br/>
+    @Html.ActionLink("Test Web Api complex type", "TestComplexType", "api/ExternalCheck")<br/>
+    <br/>
+
+    @Html.ActionLink("Go to standard form", "StandardForm", "Form")<br />
+    @Html.ActionLink("Go to custom form", "CustomForm", "Form")
+
+</div>

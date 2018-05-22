@@ -1,0 +1,40 @@
+﻿@model EmptyMvc.Models.MyTestModel
+@using System.Web.Optimization
+
+<h2>Custom form</h2>
+
+@using (Html.BeginForm("CustomForm", "Form", FormMethod.Post,
+    new { enctype = "multipart/form-data" }))
+{
+    <fieldset>
+        @Html.LabelFor(model => Model.ID)
+        @Html.TextBoxFor(model => Model.ID, new { @Value = "1" })
+        @Html.ValidationMessageFor(model => Model.ID)
+    </fieldset>
+    <fieldset>
+        @Html.LabelFor(model => Model.FirstName)
+        @Html.TextBoxFor(model => Model.FirstName, new { })
+        @Html.ValidationMessageFor(model => Model.FirstName)
+    </fieldset>
+    <fieldset>
+        @Html.LabelFor(model => Model.LastName)
+        @Html.TextBoxFor(model => Model.LastName, new { })
+        @Html.ValidationMessageFor(model => Model.LastName)
+    </fieldset>
+    <fieldset>
+        <input type="file" name="file" />
+    </fieldset>
+    <fieldset>
+        <input type="submit" value="Save" />
+    </fieldset>
+}
+
+
+@section Scripts
+{
+    <script src="/Scripts/jquery-1.10.2.js"></script>
+
+    <script src="/Scripts/jquery.validate.js"></script>
+    <script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+}

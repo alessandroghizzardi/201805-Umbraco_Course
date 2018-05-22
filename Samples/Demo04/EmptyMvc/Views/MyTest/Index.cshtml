@@ -1,0 +1,36 @@
+﻿@model EmptyMvc.Models.MyTestModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary(true)
+
+            <fieldset>
+                <legend>Test</legend>
+
+                @Html.HiddenFor(model => model.FirstName)
+
+                @Html.TextBoxFor(model => Model.FirstName, new { })
+                @Html.ValidationMessageFor(model => Model.FirstName)
+                <p>
+                    <input type="submit" value="Save" />
+                </p>
+            </fieldset>
+        }
+
+    </div>
+</body>
+</html>

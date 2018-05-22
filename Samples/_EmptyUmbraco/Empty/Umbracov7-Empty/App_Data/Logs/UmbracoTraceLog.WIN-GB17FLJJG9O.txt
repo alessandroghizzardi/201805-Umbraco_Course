@@ -1,0 +1,3 @@
+﻿ 2018-05-14 10:26:09,223 [P1392/D8/T13] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2018-05-13 10:26:09
+ 2018-05-14 15:25:01,820 [P1392/D8/T43] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2018-05-13 15:25:01
+ 2018-05-14 21:41:24,641 [P1392/D8/T46] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2018-05-13 21:41:24

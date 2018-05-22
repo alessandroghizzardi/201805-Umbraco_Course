@@ -1,0 +1,13 @@
+﻿@model EmptyMvc.Models.MyTestModel
+
+    <div>
+        <h1>Venue Detail (from Viewbag)</h1>
+        Venue id: @ViewBag.VenueId<br />
+        Name: @ViewBag.VenueName
+    </div>
+    <div>
+        <h1>Venue Detail (from ViewData)</h1>
+        Venue id: @Html.Raw((int)TempData["venueId"])<br />
+        Name: @Html.Raw((string)ViewData["viewName"])
+    </div>
+

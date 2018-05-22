@@ -1,0 +1,59 @@
+﻿@model EmptyMvc.Models.MyTestModel
+@using System.Web.Optimization
+
+<h2>Custom form</h2>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#fillFromApi").click(function () {
+            console.log('Calling API');
+            $.ajax({
+                dataType: "json",
+                url: "http://localhost:49265/api/ExternalCheck/TestComplexType",
+                success: function (data) {
+                    console.log(data);
+
+                    $("#FirstName").val(data.Name);
+                    $("#LastName").val(data.Surname);
+                    
+                }
+            });
+
+        });
+    });
+</script>
+<div>
+    <input type="button" id="fillFromApi" value="Fill from API"/>
+</div>
+
+@using (Html.BeginForm("CustomForm", "Form", FormMethod.Post,
+    new { enctype = "multipart/form-data" }))
+{
+    <fieldset>
+        @Html.LabelFor(model => Model.ID)
+        @Html.TextBoxFor(model => Model.ID)
+        @Html.ValidationMessageFor(model => Model.ID)
+    </fieldset>
+    <fieldset>
+        @Html.LabelFor(model => Model.FirstName)
+        @Html.TextBoxFor(model => Model.FirstName, new { @class = "firstName" })
+        @Html.ValidationMessageFor(model => Model.FirstName)
+    </fieldset>
+    <fieldset>
+        @Html.LabelFor(model => Model.LastName)
+        @Html.TextBoxFor(model => Model.LastName, new { })
+        @Html.ValidationMessageFor(model => Model.LastName)
+    </fieldset>
+    <fieldset>
+        <input type="file" name="file" />
+    </fieldset>
+    <fieldset>
+        <input type="submit" value="Save" />
+    </fieldset>
+}
+
+
+@section Scripts
+{
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+}

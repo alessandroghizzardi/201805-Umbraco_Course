@@ -1,0 +1,22 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.Comments>
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+	Layout = "Master.cshtml";
+}
+@section Head
+{
+    <script type="text/javascript" src="@Url.Content("~/scripts/jquery-1.10.2.min.js")"></script>
+}
+
+<div>
+    @Model.Content.Body
+</div>
+
+@Html.Action("Index", "CommentFormSurface")
+
+
+@section Foot
+{
+    <script type="text/javascript" src="@Url.Content("~/scripts/jquery.validate.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/scripts/jquery.validate.unobtrusive.min.js")"></script>
+}

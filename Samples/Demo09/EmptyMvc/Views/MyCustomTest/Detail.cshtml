@@ -1,0 +1,22 @@
+﻿@model EmptyMvc.Models.MyTestModel
+
+    <div>
+        <h1>Venue Detail (from Viewbag)</h1>
+        Venue id: @ViewBag.VenueId<br />
+        Name: @ViewBag.VenueName
+    </div>
+    <div>
+        <h1>Venue Detail (from ViewData)</h1>
+        @*Venue id: @Html.Raw((long)TempData["venueId"])<br />*@
+        Venue id: @Html.Raw((int)TempData["venueId"])<br />
+        Name: @Html.Raw((string)ViewData["venueName"])
+    </div>
+    <div>
+        <h1>Booking</h1>
+        @Html.ActionLink("Go to booking (via ActionLink)", "DirectBooking",
+             new { id = ViewBag.VenueId, name = ViewBag.VenueName })
+        <br/>
+        @Html.RouteLink("Go to booking (via RouteLink)",
+             routeName: "DirectBookingRoute",
+             routeValues: new { id = ViewBag.VenueId, name = ViewBag.VenueName })
+    </div>

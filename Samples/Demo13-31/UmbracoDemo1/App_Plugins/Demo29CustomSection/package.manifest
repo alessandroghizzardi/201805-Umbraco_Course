@@ -1,0 +1,8 @@
+﻿{
+  javascript: [
+    "~/App_Plugins/Demo29CustomSection/backoffice/peopletree/edit.controller.js",
+    "~/App_Plugins/Demo29CustomSection/backoffice/peopletree/delete.controller.js",
+    "~/App_Plugins/Demo29CustomSection/person.resource.js",
+    "~/App_Plugins/Demo29CustomSection/umbMediaPicker.directive.js"
+  ]
+}

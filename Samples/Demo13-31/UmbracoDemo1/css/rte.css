@@ -1,0 +1,9 @@
+
+
+/**umb_name:header*/
+h1{color: blue;
+font-weight: bold;}
+
+/**umb_name:error*/
+.error{color:red;
+text-decoration:underline;}

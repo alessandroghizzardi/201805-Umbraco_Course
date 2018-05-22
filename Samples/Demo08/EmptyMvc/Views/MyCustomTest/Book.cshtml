@@ -1,0 +1,27 @@
+﻿@model EmptyMvc.Models.MyTestModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    
+</head>
+<body>
+    <div>
+        <h1>Venue Detail (from Viewbag)</h1>
+        Venue id: @ViewBag.VenueId<br />
+        Name: @ViewBag.VenueName
+    </div>
+    <div>
+        <h1>Venue Detail (from ViewData)</h1>
+        Venue id: @Html.Raw((int)TempData["venueId"])<br />
+        Name: @Html.Raw((string)ViewData["viewName"])
+    </div>
+</body>
+</html>

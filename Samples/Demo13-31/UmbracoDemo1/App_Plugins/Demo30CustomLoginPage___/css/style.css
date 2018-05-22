@@ -1,0 +1,52 @@
+.login-overlay {
+    background: url('../bg/bg.jpg') no-repeat center !important;
+    background-size: 100% 100% !important;
+    /*text-shadow: 0 0 5px #000;*/
+}
+.login-overlay .form {
+    background-color: #0055a4;
+    color: #ffffff;
+}
+
+.login-overlay h1 {
+    color: #ffffff;
+}
+
+.umb-dialog a.muted,
+.umb-dialog a.muted:visited,
+.umb-dialog a.muted:focus,
+.umb-dialog a.muted:hover,
+.umb-panel a.muted:focus,
+.umb-panel a.muted:hover {
+    color: #ffdf1b;
+}
+
+.btn-success,
+.btn-success:active,
+.btn-success:visited,
+.btn-success:focus,
+.btn-success:focus,
+.btn-success:hover {
+    background: #ffdf1b;
+    color: #0055a4;
+}
+
+    .btn-success:hover {
+        background: #ffcf1b;
+        color: #0055a4;
+    }
+
+.login-overlay__logo img{
+    display:none;
+}
+
+
+.login-overlay__logo {
+    width: 154px;
+    height: 100px;
+    background: url('../bg/logo.png') no-repeat center !important;
+    background-size: 154px 100px !important;
+}
+
+
+

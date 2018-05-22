@@ -1,0 +1,34 @@
+﻿
+<!DOCTYPE html>
+
+<html lang="it">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>@ViewBag.Title</title>
+	<meta name="description" content="">
+	<meta name="robots" content="index,follow,noodp">
+	<meta name="googlebot" content="index,follow">
+	<meta name="google" content="notranslate">
+
+    @RenderSection("Scripts", false)
+    
+</head>
+<body style="background-color: #00BEC1">
+
+    <header>
+        <h1>Contenuto da header comune </h1>
+    </header>
+    @*@Html.Partial("/Views/Shared/Testata.cshtml")*@
+    <main class="container">
+        @RenderBody()
+    </main>
+    <footer>
+        <h2>Contenuto da footer comune </h2>
+    </footer>
+    @*@Html.Partial("/Views/Shared/Footer.cshtml")*@
+
+
+</body>
+</html>

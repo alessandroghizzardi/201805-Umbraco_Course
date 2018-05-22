@@ -1,0 +1,19 @@
+﻿@model EmptyMvc.Models.MyTestModel
+
+
+
+<fieldset>
+    <label for="testFromStatic">Test from static</label>
+    @TestMvcHelper.PrefilledTextbox("testFromStatic", "Prefilled value")
+</fieldset>
+
+
+<fieldset>
+    <label for="testFromExtension">Test from extension</label>
+    @Html.PrefilledTextbox("testFromExtension", "Prefilled value from extension")
+</fieldset>
+
+<fieldset>
+    <label for="testFromRazorHelper">Test from razor helper</label>
+    @TestRazorHelper.PrefilledTextbox("testFromRazorHelper", "Prefilled value from razor helper")
+</fieldset>

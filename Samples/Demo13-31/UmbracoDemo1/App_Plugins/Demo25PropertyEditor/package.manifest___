@@ -1,0 +1,15 @@
+﻿{
+  "propertyEditors": [
+    {
+      "name": "Demo Char Limit property editor",
+      "alias": "demoCharLimitPropertyEditor",
+      "icon": "icon-truck",
+      "editor": {
+        "view": "/app_plugins/Demo25PropertyEditor/editor.html"
+      }
+    }
+  ],
+  "javascript": [
+    "/app_plugins/Demo25PropertyEditor/editor.controller.js"
+  ]
+}

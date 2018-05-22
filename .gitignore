@@ -16,12 +16,12 @@ Samples/_EmptyMvc/.vs
 ~$20180521-Umbraco.pptx
 Samples/Demo01/Demo1/obj
 Samples/Demo01/Demo1/bin
-Samples/Demo01/.vs
+Samples/Demo01/Demo1/.vs
 Samples/Demo01/packages
 Samples/Demo02/Demo2/bin
 Samples/Demo02/Demo2/obj
 Samples/Demo02/packages
-Samples/Demo02/.vs
+Samples/Demo02/Demo2/.vs
 Samples/Demo03/Demo3/bin
 Samples/Demo03/Demo3/obj
 Samples/Demo03/packages
@@ -148,3 +148,5 @@ Samples/Demo33/24days/obj
 Samples/Demo33/24days/packages
 Samples/Demo33/Umbraco.Extensions/bin
 Samples/Demo13-31/UmbracoDemo1/bin/Release/PublishOutput
+Samples/Demo01/.vs
+Samples/Demo02/.vs

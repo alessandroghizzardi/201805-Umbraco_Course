@@ -1,0 +1,8 @@
+﻿{
+  "javascript": [
+    "/app_plugins/Demo27CustomListview/listview.controller.js"
+  ],
+  "css": [
+    "/app_plugins/Demo27CustomListview/listview.css"
+  ]
+}

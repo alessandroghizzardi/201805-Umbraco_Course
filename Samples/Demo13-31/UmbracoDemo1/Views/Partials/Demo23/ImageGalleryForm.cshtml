@@ -1,0 +1,26 @@
+﻿@using UmbracoDemo1.Demo.Demo23
+
+@model UmbracoDemo1.Demo.Demo23.ImageGalleryModel
+
+@{ 
+    var feedback = TempData["Feedback"] != null ? TempData["Feedback"].ToString() : null;
+
+}
+@using (Html.BeginUmbracoForm<ImageGallerySurfaceController>("HandlePost", new { GalleryId = 1093}))
+{
+    <fieldset>
+        @if (!string.IsNullOrEmpty(feedback))
+        {
+            <div>
+                <h2>@feedback</h2>
+            </div>
+        }
+            <div>
+                <input type="file" name="files" multiple/>
+                @Html.ValidationMessageFor(m => m.Files)
+            </div>
+        <p>
+            <input type="submit" value="Send files" />
+        </p>
+    </fieldset>
+}

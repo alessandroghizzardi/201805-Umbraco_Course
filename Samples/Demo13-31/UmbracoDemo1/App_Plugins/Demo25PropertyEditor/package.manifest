@@ -1,0 +1,29 @@
+﻿{
+  "propertyEditors": [
+    {
+      "name": "Demo Char Limit property editor",
+      "alias": "demoCharLimitPropertyEditor",
+      "editor": {
+        "view": "/app_plugins/Demo25PropertyEditor/editor.html"
+      },
+      "prevalues": {
+        "fields": [
+          {
+            "label": "Number of chars",
+            "description": "Insert the char limit",
+            "key": "charLimit",
+            "view": "number",
+            "validation": [
+              {
+                "type": "Required"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "javascript": [
+    "/app_plugins/Demo25PropertyEditor/editor.controller.js"
+  ]
+}

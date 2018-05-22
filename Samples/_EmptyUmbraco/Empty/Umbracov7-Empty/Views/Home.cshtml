@@ -1,0 +1,19 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+@StackExchange.Profiling.MiniProfiler.RenderIncludes()
+
+@{
+    var pageTitle = string.IsNullOrEmpty(CurrentPage.pageTitle) ?
+        CurrentPage.Name : CurrentPage.pageTitle;
+
+}
+<p>@pageTitle</p>
+
+<div>
+    @CurrentPage.bodyText
+
+    @Html.GetGridHtml(Model.Content, "composer")
+
+</div>

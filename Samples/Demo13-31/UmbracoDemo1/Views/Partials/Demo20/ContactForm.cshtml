@@ -1,0 +1,42 @@
+﻿@using UmbracoDemo1.Demo.Demo20
+
+@model UmbracoDemo1.Demo.Demo20.ContactModel
+
+@{ 
+    var feedback = TempData["Feedback"] != null ? TempData["Feedback"].ToString() : null;
+
+}
+@using (Html.BeginUmbracoForm<ContactFormSurfaceController>("HandlePost"))
+{
+<fieldset>
+    @if (!string.IsNullOrEmpty(feedback))
+    {
+        <div>
+            <h2>@feedback</h2>
+        </div>
+    }
+    else
+    {
+        <div>
+            @Html.LabelFor(model => Model.Name, new { })
+            @Html.TextBoxFor(model => Model.Name, new { })
+            @Html.ValidationMessageFor(model => Model.Name)
+        </div>
+        <div>
+            @Html.LabelFor(model => Model.Email, new { })
+            @Html.TextBoxFor(model => Model.Email, new { })
+            @Html.ValidationMessageFor(model => Model.Email)
+        </div>
+        <div>
+            @Html.LabelFor(model => Model.Message, new { })
+            @Html.TextAreaFor(model => Model.Message, new { })
+            @Html.ValidationMessageFor(model => Model.Message)
+        </div>
+        <p>
+            <input type="submit" value="Send email" />
+        </p>
+    }
+
+
+</fieldset>
+}

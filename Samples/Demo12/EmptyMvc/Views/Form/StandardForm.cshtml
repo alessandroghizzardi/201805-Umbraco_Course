@@ -1,0 +1,31 @@
+﻿@model EmptyMvc.Models.MyTestModel
+
+<h2>Standard form</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+<fieldset>
+    <legend>Test</legend>
+
+    <fieldset>
+        @Html.LabelFor(model => Model.ID)
+        @Html.TextBoxFor(model => Model.ID, new { value = "1" })
+        @Html.ValidationMessageFor(model => Model.ID)
+    </fieldset>
+    <fieldset>
+        @Html.LabelFor(model => Model.FirstName)
+        @Html.TextBoxFor(model => Model.FirstName, new { })
+        @Html.ValidationMessageFor(model => Model.FirstName)
+    </fieldset>
+    <fieldset>
+        @Html.LabelFor(model => Model.LastName)
+        @Html.TextBoxFor(model => Model.LastName, new { })
+        @Html.ValidationMessageFor(model => Model.LastName)
+    </fieldset>
+    <p>
+        <input type="submit" value="Save" />
+    </p>
+</fieldset>
+}

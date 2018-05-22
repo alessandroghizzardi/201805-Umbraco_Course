@@ -1,0 +1,30 @@
+﻿@model EmptyMvc.Models.MyTestModel
+@using EmptyMvc.Helpers
+
+@{ 
+    bool isImageAvailable = 
+        (TempData["imageName"] != null && !string.IsNullOrEmpty(TempData["imageName"].ToString()))
+        ?  true : false;
+
+}
+<h2>Thank you for your submission! Here's the summary</h2>
+
+<fieldset>
+    <legend>Test</legend>
+
+    <fieldset>
+        @Html.TextBoxFor(model => Model.ID, new { })
+    </fieldset>
+    <fieldset>
+        @Html.TextBoxFor(model => Model.FirstName, new { })
+    </fieldset>
+    <fieldset>
+        @Html.TextBoxFor(model => Model.LastName, new { })
+    </fieldset>
+    @if (isImageAvailable)
+    {
+        <fieldset>
+            @Html.ViewUploadedImage(TempData["imageName"].ToString())
+        </fieldset>
+    }
+</fieldset>

@@ -1,0 +1,18 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.ImageGallery>
+    @using ContentModels = Umbraco.Web.PublishedContentModels;
+    @{
+    Layout = "Master.cshtml";
+    }
+
+    @section Head
+    {
+    <script type="text/javascript" src="@Url.Content(" ~/scripts/jquery-1.10.2.min.js")"></script>
+    }
+
+    @Html.Action("Index", "ImageGallerySurface", new { galleryId =  1093 })
+
+    @section Foot
+    {
+        <script type="text/javascript" src="@Url.Content(" ~/scripts/jquery.validate.min.js")"></script>
+        <script type="text/javascript" src="@Url.Content(" ~/scripts/jquery.validate.unobtrusive.min.js")"></script>
+    }

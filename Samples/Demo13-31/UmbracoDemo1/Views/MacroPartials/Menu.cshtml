@@ -1,0 +1,21 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+@using UmbracoDemo1.Extensions;
+
+
+<ul>
+    @if (CurrentPage.AncestorOrSelf(1).Id != CurrentPage.Id)
+    {
+        <li>
+            <a href="/">Back to homepage</a>
+        </li>
+    }
+    @{
+        var root = CurrentPage.AncestorOrSelf(1);
+        foreach (var page in root.Children)
+        {
+            <li class="@(page.IsAncestorOrSelf(CurrentPage) ? "current" : null)">
+                <a href="@page.Url">@page.Name</a>
+            </li>
+        }
+    }
+</ul>

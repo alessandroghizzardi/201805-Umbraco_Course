@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<language>
+    <creator>
+        <name>Alessandro Ghizzardi</name>
+        <link>http://our.umbraco.org/</link>
+    </creator>
+  <area alias="healtcheck">
+    <key alias="demoMacroErrorModeCheckSuccessMessage">Successful configured - us</key>
+    <key alias="demoMacroErrorModeCheckErrorMessage">Error in configuration - us</key>
+    <key alias="demoMacroErrorModeCheckRectifySuccessMessage">Not successful anymore - us</key>
+    
+  </area>
+  <area alias="sections">
+    <key alias="demoSection">Demo section</key>
+  </area>
+</language>

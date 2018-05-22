@@ -1,0 +1,29 @@
+﻿@using Umbraco.Web.PublishedContentModels;
+@*@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.Homepage>*@
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<UmbracoDemo1.Demo.Demo19.DemoCustomModel>
+
+@{
+    Layout = "Master.cshtml";
+}
+
+<div>
+    @Model.Content.GetPropertyValue("title")
+    
+</div>
+<div>
+
+    @Model.Content.GetPropertyValue("body")
+</div>
+
+
+<div>
+        Test from custom controller:
+        @ViewBag.TestFromCustomController
+    </div>
+
+<div>
+        Test from custom model:
+        @Model.MyCustomProperty<br />
+        From Umbraco:
+        @Model.Content.Name<br />
+    </div>

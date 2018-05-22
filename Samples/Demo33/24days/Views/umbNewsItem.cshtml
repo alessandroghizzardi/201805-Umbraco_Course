@@ -1,0 +1,64 @@
+﻿@using Umbraco.Extensions.Models
+@using Umbraco.Web.Models
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<UmbNewsItem>
+@{
+    Layout = "umbLayout.cshtml";
+    
+    // If the editor has not explicitly provided the "Page title" property page 
+    // then just show the name of the page otherwise show the provided title
+    var pageTitle = string.IsNullOrWhiteSpace(CurrentPage.Title)
+        ? CurrentPage.Name
+        : CurrentPage.Title;
+
+    var newsDetached = Model.Content.News;
+
+    Image media = null;
+
+    if (newsDetached.Media != null)
+    {
+        media = newsDetached.Media as Image;
+    }
+}
+<div id="main-wrapper">
+    <div id="main" class="container">
+        <div class="row">
+            <div class="9u skel-cell-mainContent">
+                <div class="content content-left">
+                    <!-- Content -->
+                    <article class="is-page-content">
+                        <header>
+                            <h2>@pageTitle</h2>
+                        </header>
+                        <section>
+                            @if (string.IsNullOrWhiteSpace(CurrentPage.Image) == false)
+                            {
+                                <span class="image image-full"><img src="@CurrentPage.Image" alt="" /></span>
+                            }
+
+                            <h3>@newsDetached.Subheader</h3>
+                            @if (media != null)
+                            {
+                                <img src="@Url.GetCropUrl(media, height: 150, width: 100)" alt="@media.Alt" />
+                            }
+                            @newsDetached.BodyText
+                        </section>                           
+                    </article>
+                    <!-- /Content -->
+                </div>
+            </div>
+            <div class="3u">
+                <div class="sidebar">
+                    <!-- Sidebar -->
+                    @{ Html.RenderPartial("umbLatestNewsWidget"); }
+                    <!-- /Sidebar -->
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="12u">
+                @{ Html.RenderPartial("umbFeatures"); }
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Main -->

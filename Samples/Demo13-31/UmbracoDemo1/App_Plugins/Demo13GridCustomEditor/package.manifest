@@ -1,0 +1,16 @@
+﻿{
+    "gridEditors": [
+      {
+        "name": "DemoCustomEditor",
+        "alias": "democustomeditor",
+        "view": "/app_plugins/Demo13GridCustomEditor/editor.html",
+        "icon": "icon-truck",
+        "config": {
+          "color": "red"
+        }
+      }
+    ],
+    javascript:[
+        "/app_plugins/Demo13GridCustomEditor/editor.controller.js"
+    ]
+}

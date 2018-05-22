@@ -1,0 +1,23 @@
+﻿
+<div ng-controller="demo.listview.controller as vm"
+     ng-if="items"
+     class="my-comments-layout__cards">
+
+    <div class="my-comments-layout__card"
+         ng-repeat="item in items"
+         ng-class="{'-selected':item.selected}"
+         ng-click="vm.selectItem(item, $event, $index)"
+         ng-style="{'background-image': 'url(' + item.imageThumbnail + ')'}">
+
+        <div class="my-comments-layout__overlay">
+            <div class="my-comments-layout__released">{{ item.released }}</div>
+            <div class="my-comments-layout__artist">{{ item.artist }}</div>
+            <div class="my-comments-layout__name">{{ item.name }}</div>
+            <div class="my-comments-layout__genre">{{ item.genre }}</div>
+        </div>
+
+        <div class="my-comments-layout__button" ng-click="vm.clickItem(item)">View comment</div>
+
+    </div>
+
+</div>
